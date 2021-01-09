@@ -2,7 +2,7 @@
   "name": "discord-24x7-music",
   "version": "1.0.0",
   "description": "Host your own music streaming bot that stays in a channel forever and streams music!",
-  "main": "server.jar",
+  "main": "live.jar",
   "dependencies": {
     "express": "^4.17.1",
     "https": "^1.0.0",

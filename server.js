@@ -13,4 +13,4 @@ setInterval(() => {
 
 var shell = require('shelljs');
   
-shell.exec('nohup java -Dnogui=true -jar moosic.jar &')
+shell.exec('nohup java -Dnogui=true -jar live.jar &')
