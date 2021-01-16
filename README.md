@@ -5,6 +5,10 @@
 ## What's this?
 Host your own music streaming bot that stays in a channel forever and streams music!!
 
+## Tutorial:
+
+[<img src="https://github.com/navaneethkm004/my-images/blob/main/Copy%20of%20Yellow%20Simple%20Education%20YouTube%20Channel%20Art%20(2).png?raw=true">](https://youtu.be/xg9jdRGWU7k)
+
 [![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/discord-24x7-music)](https://repl.it/github/navaneethkm004/discord-24x7-music)
 
 ## Author
